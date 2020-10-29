@@ -18,7 +18,11 @@ const plannen = [
   `zoek je droombaan`,
   `mediteer`,
   `houd een Netflix-avond`,
-  `plan een Monopoly-avond`
+  `plan een Monopoly-avond`,
+  `bouw een dekenfort`,
+  `app je telefoonnummerbuur (het nummer waarvan het laatste cijfer 1 hoger of lager is dan je eigen nummer)`,
+  `schrijf een brief naar een familielid`,
+  `stuur een ansichtkaart`
 ];
 
 
